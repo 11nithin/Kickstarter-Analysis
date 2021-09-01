@@ -44,11 +44,11 @@ Based on the data “May” has the greatest number of successful outcomes. Octo
 
 - What can you conclude about the Outcomes based on Goals?
 
-Based on the outcomes based on goal data. Goal with amount less than $5000 have the highest success rate. But the goal has no big impact on the outcome. Goal $25,000 to $35,000 success rate is much lesser than the goal $35,000 to $45,000
+Based on the outcomes based on goal data, Goal with amount less than $5000 have the highest successful outcome. But the Goal amount has no big impact on the outcome. Goal $25,000 to $35,000 success rate is much lesser than the goal $35,000 to $45,000
 
 - What are some limitations of this dataset?
 
-This dataset doesn’t show what group of people (age, sex etc.) are contributing to each category. That would be beneficial data for future campaigns
+This dataset doesn’t show what group of people (age, sex etc.) are contributing to each category. That would be beneficial data for future campaigns.
 
 - What are some other possible tables and/or graphs that we could create?
 
