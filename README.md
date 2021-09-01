@@ -4,7 +4,7 @@
 
 
 ### *Background and Purpose*
-To find out how different campaigns are affetcted by their launch dates and their funding goals. Analysing the kickstarter dataset to find the outcomes based on the Launch date and outcomes based on Goals.
+To find out how different campaigns are affetcted by their launch dates and their funding goals. We are analysing the kickstarter dataset to find the outcomes based on the Launch date and outcomes based on Goals.
 
 
 
@@ -12,7 +12,7 @@ To find out how different campaigns are affetcted by their launch dates and thei
 We are using two analyses here "Analysis of Outcomes Based on Launch Date" and "Analysis of Outcomes Based on Goals"
 
 ### Analysis of Outcomes Based on Launch Date
-To findout if the launch date has an impact on the campaign a pivot table is made that shows number of successful, failed and canceled outcomes based on months in "theatre" parent category. And line chart is created from the the pivot table
+To find out if the launch date has an impact on the campaign a pivot table is made that shows number of successful, failed and cancelled outcomes by months in "theatre" parent category. And line chart is created from the the pivot table
 
 Pivot table
 
