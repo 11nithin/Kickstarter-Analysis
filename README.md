@@ -25,6 +25,8 @@ Using the pivot table created a line chart. Line chart give a better visualizati
 
 ### Analysis of Outcomes Based on Goals
 To analyse the outcomes based on goal created a table using COUNTIFS formula and found the number of successful, failed and canceled outcomes in each range and found the percentage of success rate for each range. Line chart is created with range of goal on X axis and Percentages on Y axis.
+
+
 ![outcomebasedongoal](https://github.com/11nithin/Kickstarter-Analysis/blob/main/Resources/Outcomes%20based%20on%20Goals.PNG)
 
 ### Challenges and Difficulties Encountered
